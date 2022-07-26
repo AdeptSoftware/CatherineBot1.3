@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "catherine-cilind",
+  "private_key_id": "fdb4192eccbb2d6aee235cd5825e90b8529a5d79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcuC14+ENgI+fj\nVZMh/zUOPJP9gaeZ2WY1deTMh5e6FLy1qsG+p0au1D0upN3wKNVad9yK7wH0iOGe\nUGgagAts8MZPG2I8kOIl6X3WzbukT1N61A4kSeCxR4yvJxwc2KF6weTiYDHtg/DF\n+EpymTOn4mas8NOwcCEfbj2DTtNmjqT2mtrAPUYaPY+e12TrQtWetctjOQjKeTwY\ngJAiUndM+8Vo8ReD94qB0bOhaSJJ35GJsBwoznQKVz/Kqp/+KZLY/V8LG1KXhANs\nFFEZMTmxKrBlneTI5PkpUmrm5XyF6WyYOZtnciS13jHsamLOi+Wl2Z9nGPQHmvTn\nyP006SRHAgMBAAECggEAGX622w6cO1gsAaYqvOWdFndRZfTBNLySrZDDy2gljT6R\nYoZoZWEmFQvu9hcZCdhCuSh1pt5x9XuNJKmU/falpS/YOwdL6GlzeNJux9KJO5Yy\nEPHNaSbhmEV5BAd7QdAWGPfRCei3RpnnwfT9+32j0yR4Kps0/OeI4+mVtTZOGslJ\nqhnyuHXEbxEIuP52kMSuXARw5Z3edEPCOhe5/5LZHkvUzwm9OkAjfL5Y9wYVpDfm\nTdbtBCw4HTHTKzOklI3oXN/RiZ9oJcoK5En1GL8D8FZKMeChAF95mHxjIf7drLGt\nfZOOQtwXuxfwMhZEhS2t6kVUeKJicXR7ybe5phIh/QKBgQDM0b+/3D/Ux2QrAlI2\nKKGnVlkV87fOBgFhBCtheNB2+hcGbhEZQrhSbx0a9DKkitoY9u3CsejY8serajj3\nxhOMQfb9IDMOEDDhUIQScgO6gwyEy0xm0gVWHmTIWtAupjbrqh4rZYVtNsG+j2mZ\nKYep+MyRoVjPUA0beogk1hRyGwKBgQDD4X0RWSGL9N5SCakga3YjCltdu1CtJMYS\n6PgG51dperGrtrqToagn+eGjH/Bx/0mae+UDgy9pI03TuAHEpOUgx6Tluxn6LxPS\nfTjt336LKl3WHgzky0sEhNLfAuSOdrKt5dWFAfnotDJg2Yc8/Fqi/80a4jhFkZsA\nehNAFOFZRQKBgQDA0xslwnHpnUoFX6sMR9Zglt9J1mgNswOrVWSN4FLKIAp7SDYa\nxQCIwwjwrkPbOsm3RQl0CVBAptgp3dgCFF2k5xljFuRZ8g5CoS2lu+ccuXGYt1iX\nWFQjznttUGm78Um1NjQvAOXLewiNobB1vG53K79Tv0W/7wpX+1Se8VjQTwKBgQC5\nmukaTh2Wc0FR9Ot317uKOl8Wss4gMg8pjeyvBfhy7xp5Pd0O1If00Tb3jeUU77Q7\nmJgJOv3qntQ5AEtUnHasF+Bs+lwEDyW2NoeCBlru3QcrQzAuf18m+gCh5ijRwTFP\ny88FiDjYQh7WXGhj5i6v8rjTd3WgnfaEfifNebuKDQKBgDEcWxz8aHBAGNNM77Sz\nzXgGndCVhh2FB0snB+OYTB1R5kTiEoeYipb1yVb+yGDX5QEci5IxTQlNa8u1mICz\n3fdYnsNHX1QDQMb9QOl8t1AqX6cjkCGtddrVEu5S8syHmiaMf7WbZydYRomCfAef\nrMaotxwczuw8uPPbwYnkJQxV\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-oqmnsx@catherine-cilind.iam.gserviceaccount.com",
+  "client_id": "102457999431186752029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-oqmnsx%40catherine-cilind.iam.gserviceaccount.com"
+}

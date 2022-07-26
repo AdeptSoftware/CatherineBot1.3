@@ -1,0 +1,5 @@
+requests==2.27.0
+dialogflow==1.1.0
+vk_api==11.9.7
+yadisk==1.2.15
+
