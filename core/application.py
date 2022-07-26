@@ -170,7 +170,7 @@ class Application:
             try:
                 for e in lp.listen():
                     if e.type == VkBotEventType.MESSAGE_NEW:
-                        self._read(e.obj)
+                        self._read(e.obj["message"])
                     else:
                         print("New Bot Event Type ({0})".format(e.type))
             except Exception as err:
