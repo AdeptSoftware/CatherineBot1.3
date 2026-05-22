@@ -8,5 +8,6 @@
 Автор: Adept
 
 Связь: AdeptSoftware@yandex.ru
+Группа: https://vk.com/catherinebot (changelog и описание команд)
 
 P.S. Готово для запуска на heroku.com
